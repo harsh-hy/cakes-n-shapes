@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "ourQualities": [
+    {
+        "id": 1,
+        "image": "./quality_food.svg",
+        "title": "QUALITY BAKED GOODS",
+        "description": "We use only the freshest ingredients to create mouthwatering treats, baked with love and care to ensure every bite is perfect."
+    },
+    {
+        "id": 2,
+        "image": "./super_taste.svg",
+        "title": "DELICIOUS FLAVORS",
+        "description": "Our pastries are a blend of traditional and innovative flavors, designed to delight your taste buds with every bite."
+    },
+    {
+        "id": 3,
+        "image": "./fast_delivery.svg",
+        "title": "FRESHLY BAKED DAILY",
+        "description": "We bake our goods fresh every day, ensuring you always get the best, most flavorful treats straight from the oven."
+    }
+],
+        "who_we_are": [
+          {
+            "id": 1,
+            "number": "1",
+            "title": "Established Locations"
+          },
+          {
+            "id": 2,
+            "number": "3",
+            "title": "Dedicated Pastry Chefs"
+          },
+          {
+            "id": 3,
+            "number": "1",
+            "title": "Year of Baking Experience"
+          },
+          {
+            "id": 4,
+            "number": "50+",
+            "title": "Freshly Baked Recipes"
+          }
+        ]
+      }
+    ]
+  }
