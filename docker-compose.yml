@@ -6,6 +6,6 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8080:80"
+      - "3000:80"
     container_name: bakery_frontend
     restart: unless-stopped
