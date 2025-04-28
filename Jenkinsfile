@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git url: 'https://github.com/harsh-hy/cicd', branch: 'main'
+                git url: 'https://github.com/harsh-hy/cakes-n-shapes', branch: 'main'
             }
         }
 
